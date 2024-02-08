@@ -1,0 +1,16 @@
+.banner p {
+  display: flex;
+  align-content: center;
+  width: 70%;
+  margin-left: 2em;
+  color: rgb(55, 30, 170);
+}
+.banner .sasbutton {
+  background-color: rgb(177, 21, 21);
+  border: none;
+  border-radius: 6px;
+  width: 80px;
+  height: 30px;
+  margin-left: 2em;
+  margin-top: 6em;
+}/*# sourceMappingURL=Sasdemo.module.css.map */

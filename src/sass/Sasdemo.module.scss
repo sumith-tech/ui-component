@@ -1,0 +1,14 @@
+@import "./variables.scss";
+
+.banner {
+  p {
+    display: flex;
+    align-content: center;
+    width: 70%;
+    margin-left: 2em;
+    color: $Bluecolor;
+  }
+  .sasbutton {
+    @include buttonstyles($redcolor);
+  }
+}

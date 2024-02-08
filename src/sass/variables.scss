@@ -1,0 +1,14 @@
+$redcolor: rgb(177, 21, 21);
+$Bluecolor: rgb(55, 30, 170);
+
+// sass function
+
+@mixin buttonstyles($color) {
+  background-color: $color;
+  border: none;
+  border-radius: 6px;
+  width: 80px;
+  height: 30px;
+  margin-left: 2em;
+  margin-top: 6em;
+}
